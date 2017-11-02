@@ -1,0 +1,30 @@
+ul.nav a {
+  background-color: red;
+  color: white;
+}
+
+.color-info {
+  border-color: black;
+  border-style: solid;
+}
+
+#about_blue {
+  background-color: blue;
+}
+
+#about_yellow {
+  background-color: yellow;
+}
+
+#about_blue li {
+  color: navy;
+}
+
+#about_yellow li {
+  color: orange;
+}
+
+.important {
+  font-weight: bold;
+  font-size: 16px;
+}
